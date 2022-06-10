@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.sec-1{
+    background-color: rgba(44, 44, 44, 0.26);
+}
+.text{
+    padding: 25px 25px 0px 25px;
+}
+.text p{
+    color: rgba(0, 0, 0, 0.651);
+    font-style: italic;
+    font-size: 12px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+}
+.text h1{
+    color: rgba(10, 10, 10, 0.637);
+    font-size: 32px;
+}
+.pics{
+    border-radius: 10px;
+    padding-top: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+}
+.pics p{
+    color: rgba(0, 0, 0, 0.514);
+    margin: 5px;
+    font-size: 13px;
+    padding-bottom: 11px;
+}
+.pics img{
+    width: 100%;
+    border-radius: 5px;
+}
+.timeline{
+    padding-top: 22px;
+    font-size: 20px;
+}
+.list li{
+    font-size: 13px;
+    padding: 9px;
+    text-align: justify;
+}
+.list ul{
+    padding-top: 27px;
+    width: 50%;
+    margin: auto;
+}
+.final-text1 p{
+    color: rgba(0, 0, 0, 0.589);
+    margin-top: 5%;
+    margin-left: 26%;
+    margin-right: 26%;
+    text-align: justify;
+    font-style: italic;
+    font-size: 14px;
+}
+.final-text2 p{
+    color: rgba(0, 0, 0, 0.726);
+    margin: 1%;
+    margin-left: 26%;
+    margin-right: 26%;
+    text-align: justify;
+    font-style: italic;
+    font-size: 14px;
+}
+.final-link{
+    margin-top: 7%;
+    font-size: 22px;
+    padding-bottom: 50px;
+}
+.ftr p{
+    color: rgba(0, 0, 0, 0.322);
+    background-color: rgba(49, 49, 49, 0.178);
+}
+::-webkit-scrollbar{
+    display: none;
+}
